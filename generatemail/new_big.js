@@ -15,9 +15,9 @@ console.log("");
 console.log("");
 
 const apikey = "SGB-777441465e";
-const Reff = readline.question("Masukan Kode Referal : ");
-const LooP = "1000";
-const DelaY = "150";
+const Reff = "A0G8ROEC0";
+const LooP = "10000";
+const DelaY = "15000";
   "Mau Berapa Lama (millisecond), semakin lama semakin besar peluang langsung verifikasi : "
 );
 const choice = "y";
